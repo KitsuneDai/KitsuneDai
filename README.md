@@ -1,5 +1,6 @@
 # Ey, lisent! Soy Diana  
-![ezgif-2-cec4a56d63](https://github.com/KitsuneDai/KitsuneDai/assets/149829535/798e3f2e-6805-4733-a8ba-027828c8bf7f)
+![ezgif-2-cec4a56d63(1)](https://github.com/KitsuneDai/KitsuneDai/assets/149829535/26e20ae8-ac97-45db-b9f3-097dcace284c)
+
 
 Más allá de la codificación y el diseño de aplicaciones, me centro en comprender las necesidades específicas de los usuarios y cómo la tecnología puede mejorar su calidad de vida.
 
