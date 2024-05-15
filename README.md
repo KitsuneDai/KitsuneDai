@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ey, lisent! Soy Diana  
+![ezgif-2-cec4a56d63](https://github.com/KitsuneDai/KitsuneDai/assets/149829535/798e3f2e-6805-4733-a8ba-027828c8bf7f)
 
-<!--
-**KitsuneDai/KitsuneDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Más allá de la codificación y el diseño de aplicaciones, me centro en comprender las necesidades específicas de los usuarios y cómo la tecnología puede mejorar su calidad de vida.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+Javascript, HTML, CSS, Bootstrap, Phyton, sqlAlchemy, React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦊 About Me
+Como **Full Stack Developer** con experiencia en Terapia Ocupacional especializada en geriatría y daño cerebral, mi enfoque es único y multidisciplinario.
+
+Estoy comprometida a impulsar avances significativos en el bienestar, facilitando el acceso a la información y los recursos tanto para ellos como para los profesionales del cuidado de la salud. Creo firmemente en la integración de la tecnología y la terapia ocupacional para brindar un **enfoque holístico y centrado en los usuarios hacia el tratamiento y la mejora de su calidad de vida**.
+![gif](https://i.gifer.com/Gjnl.gif)
+*Obviamente no podría faltar una referencia gatuna*
