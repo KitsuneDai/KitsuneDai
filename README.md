@@ -1,7 +1,5 @@
-# Ey, lisent! Soy Diana  
+# Ey, lisent! Soy Diana (a.k.a KitsuneDai) 
 ![ezgif-2-cec4a56d63(1)](https://github.com/KitsuneDai/KitsuneDai/assets/149829535/26e20ae8-ac97-45db-b9f3-097dcace284c)
-
-
 Más allá de la codificación y el diseño de aplicaciones, me centro en comprender las necesidades específicas de los usuarios y cómo la tecnología puede mejorar su calidad de vida.
 
 ## 🛠 Skills
